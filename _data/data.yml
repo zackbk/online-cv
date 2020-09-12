@@ -122,26 +122,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R
+      - name: R/Shiny
         level: 97%
 
-      - name: Regulations
+      - name: Project Management
         level: 95%
 
       - name: PFDs, P&IDs
         level: 87%
 
-      - name: SQL/Access DB
-        level: 83%
-
       - name: Aspen Plus/DWSIM
-        level: 80%
+        level: 85%
+        
+      - name: DB (Access, SQlite, postgresql)
+        level: 83%
 
       - name: Lean Six Sigma
         level: 75%
 
-      - name: Python
+      - name: Google Cloud/AWS
         level: 60%
+
+      - name: Python
+        level: 55   %
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
