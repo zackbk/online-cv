@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Zack Kedida, P. Eng.
+    tagline: Project Engineer
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: zackbk@gmail.com
+    phone: 819 328 7397
+    website: # blog.*.com #do not add http://
+    linkedin: zack.kedida
+    github: # zackbk
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,162 +29,119 @@ sidebar:
       - idiom: English
         level: Native
 
+      - idiom: Amharic
+        level: Native
+
       - idiom: French
-        level: Professional
+        level: Beginner
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    #interests:
+      #- item: Reading
+      #  link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        - Critical thinker focused on providing useful insights to improve processes and meet intended objectives 
+        - Adaptable to fast paced work environments while maintaining safety and procedural standards
+        - Proficient knowledge of process engineering design and continuous improvement principles
+        - Experience interacting with clients and managing contractors in small and large teams
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BASc in Chemical Engineering
+      university: University of Waterloo
+      time: 2011 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            - Completed +5 online engineering and law courses from top universities (Stanford, Johns Hopkins), 2014 - 2020
+            - Lean Six Sigma Green Belt (ICGB), McGill University, Sep. 2019
+            - H2S Alive, Energy Safety Canada, Aug. 2019
+            - Oil Production Operator, Energy Safety Canada, Mar. 2019
+            - Air Emissions Management, EPIC Training, Sep. 2018
+            - Completed Professional Practice Exam, Professional Engineers of Ontario, Apr. 2017
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Project Engineer
+      time: Feb. 2019 - Present
+      company: Environment and Climate Change Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Spearheading a multi-departmental effort to model the decarbonization of Canada’s oil and gas sector
+        - Developed and published regulations to reduce GHG emissions by 3 MT per year by working with stakeholders
+        - Managed projects on impact assessment and contracts on benchmarking environmental performance
+        - Leading digital-modernization projects by adopting project management tools and automating various tasks
+    - role: Junior Project Engineer
+      time: Sep. 2016 - Jan. 2019
+      company: Environment and Climate Change Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Evaluated impact of new regulations by creating multi-dimensional process models for +1000 facilities
+        - Obtained buy-in from industry by creating data-informed documents and briefing senior management
+        - Advised senior management on air pollution issues in communities using pertinent data and technical advice
+    - role: Economic Research Analyst
+      time: Sep. 2015 - Dec. 2015
+      company: Environment and Climate Change Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - Conducted preliminary design and costing study of over 25 air pollution control technologies at 15 facilities
+        - Developed cost curves for each facility to achieve desired outcomes by analysing equipment configurations
+        - Improved responses to stakeholder questions on air pollution mitigation by creating a centralized database
+    - role: Data Scientist
+      time: Sep. 2015 - Dec. 2015
+      company: PetroPredict Inc.
+      details: |
+        - Developed a risk assessment tool optimizing maintenance schedules and early pipeline failure detection
+        - Produced visualizations for clients making data-informed decisions on +25,000 assets with +100 features
+        - Used predictive and descriptive analytic techniques to better characterize failure loss, severity, and corrosion
+        
+# projects:
+    #title: 
+    #intro: >
+    #  You can list your side projects or open source libraries in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #assignments:
+      #- title: Velocity
+      #  link: "#hook"
+      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#publications:
+    #title: Publications
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. 
+    #papers:
+    #  - title: The Art of Computer Programming
+    #    link: "#"
+    #    authors: Donald E. Knuth
+    #    conference: Addison-Wesley, 1968
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #    link: "#"
+    #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #  - title: A syntax directed compiler for Algol 60
+    #    link: "#"
+    #    authors: Edgar T. Irons
+    #    conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 97%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Regulations
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PFDs, P&IDs
+        level: 87%
 
-      - name: Sketch & Photoshop
+      - name: SQL/Access DB
+        level: 83%
+
+      - name: Aspen Plus/DWSIM
+        level: 80%
+
+      - name: Lean Six Sigma
+        level: 75%
+
+      - name: Python
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
