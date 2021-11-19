@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: zackbk@gmail.com
-    phone: 819 328 7397
+    phone: 647 400 5932
     website: # blog.*.com #do not add http://
     linkedin: zack.kedida
     github: # zackbk
@@ -62,7 +62,8 @@ experiences:
       time: Feb. 2019 - Present
       company: Environment and Climate Change Canada
       details: |
-        - Spearheading a multi-departmental effort to model the decarbonization of Canada’s oil and gas sector
+        - Co-ordinated and conducted compliance verification activities for Output Based Pricing System (OBPS) Regulations 
+        - Spearheaded a multi-departmental effort to model the decarbonization of Canada’s oil and gas sector
         - Developed and published regulations to reduce GHG emissions by 3 MT per year by working with stakeholders
         - Managed projects on impact assessment and contracts on benchmarking environmental performance
         - Leading digital-modernization projects by adopting project management tools and automating various tasks
@@ -140,8 +141,8 @@ skills:
       - name: Lean Six Sigma
         level: 75%
 
-      - name: Google Cloud/AWS
-        level: 60%
+      #- name: Google Cloud/AWS
+      #  level: 60%
 
       #- name: Python
       #  level: 55%
