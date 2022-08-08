@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Zack Kedida
-    tagline: Project Engineer, P. Eng.
+    tagline: Project Engineer, P. Eng., PMP
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,6 +51,9 @@ education:
       university: University of Waterloo
       time: 2011 - 2016
       details: |
+            - GHG Verification for Inventories and Projects, GHG Management Institute, Apr 2022. - Ongoing
+            - Project-Management Professional (PMP), Project Management Institute, Apr. 2022
+            - Basics of Organizational GHG Accounting, GHG Management Institute, Dec 2021
             - Completed +5 online engineering and law courses from top universities (Stanford, Johns Hopkins), 2014 - 2020
             - Lean Six Sigma Green Belt (ICGB), McGill University, Sep. 2019
             - H2S Alive, Energy Safety Canada, Aug. 2019
@@ -63,6 +66,7 @@ experiences:
       company: Environment and Climate Change Canada
       details: |
         - Co-ordinated and conducted compliance verification activities for Output Based Pricing System (OBPS) Regulations 
+        - Improved market signal by \$1.75M by reviewing 40 MT of emissions from +50 annual reports in 5 industrial sectors
         - Spearheaded a multi-departmental effort to model the decarbonization of Canada’s oil and gas sector
         - Developed and published regulations to reduce GHG emissions by 3 MT per year by working with stakeholders
         - Managed projects on impact assessment and contracts on benchmarking environmental performance
