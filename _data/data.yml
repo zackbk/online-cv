@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        - Over 5 years of programming experience in R (shiny, data.table, tidyr, machine learning, visualization)
+        - Over 5 years of programming experience in R (shiny, data.table, tidyr, machine learning, visualizations)
         - Proficient knowledge of project management (PMP) and continuous improvement principles (LSS Green Belt)
         - Experience leading an agile software team and adaptable to learning new software tools
 education:
@@ -74,7 +74,7 @@ experiences:
       company: Environment and Climate Change Canada
       details: |
         - Evaluated impact of new regulations by creating multi-dimensional process models for +1000 facilities
-        - Obtained buy-in from industry by creating data-informed visualisations and briefing senior management
+        - Obtained buy-in from industry by creating data-informed visualizations and briefing senior management
         - Advised senior management on air pollution issues in communities using pertinent data and technical advice
     - role: Economic Research Analyst
       time: Sep. 2015 - Dec. 2015
