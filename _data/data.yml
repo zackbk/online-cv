@@ -42,17 +42,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        - Critical thinker focused on providing useful insights to improve processes and meet intended objectives 
-        - Adaptable to fast paced work environments while maintaining safety and procedural standards
-        - Proficient knowledge of process engineering design and continuous improvement principles
-        - Experience interacting with clients and managing contractors in small and large teams
+        - Over 5 years of programming experience in R (shiny, data.table, tidyr, machine learning, visualization)
+        - Proficient knowledge of project management (PMP) and continuous improvement principles (LSS Green Belt)
+        - Experience leading an agile software team and adaptable to learning new software tools
 education:
     - degree: BASc in Chemical Engineering
       university: University of Waterloo
       time: 2011 - 2016
       details: |
-            - GHG Verification for Inventories and Projects, GHG Management Institute, Apr. 2022 - Ongoing
             - Project-Management Professional (PMP), Project Management Institute, Apr. 2022
+            - GHG Verification for Inventories and Projects, GHG Management Institute, Apr. 2022
             - Basics of Organizational GHG Accounting, GHG Management Institute, Dec. 2021
             - Completed +5 online engineering and law courses from top universities (Stanford, Johns Hopkins), 2014 - 2020
             - Lean Six Sigma Green Belt (ICGB), McGill University, Sep. 2019
@@ -65,10 +64,9 @@ experiences:
       time: Feb. 2019 - Present
       company: Environment and Climate Change Canada
       details: |
-        - Co-ordinated and conducted compliance verification activities for Output Based Pricing System (OBPS) Regulations 
-        - Improved market signal by \$1.75M by reviewing 40 MT of emissions from +50 annual reports in 5 industrial sectors
-        - Spearheaded a multi-departmental effort to model the net zero technology pathways for Canada’s oil and gas sector
-        - Developed and published regulations to reduce GHG emissions by 3 MT per year by working with stakeholders
+        - Designed a predictive Energy Timeline App (ETA) that received a departmental recognition award
+        - Applied machine learning, advanced statistical methods, and engineering models to inform future energy policies 
+        - Corrected \$1.75M of GHG accounting errors by reviewing +50 annual reports in 5 industrial sectors
         - Managed projects on impact assessment and contracts on benchmarking environmental performance
         - Leading digital-modernization projects by adopting project management tools and automating various tasks
     - role: Junior Project Engineer
@@ -76,7 +74,7 @@ experiences:
       company: Environment and Climate Change Canada
       details: |
         - Evaluated impact of new regulations by creating multi-dimensional process models for +1000 facilities
-        - Obtained buy-in from industry by creating data-informed documents and briefing senior management
+        - Obtained buy-in from industry by creating data-informed visualisations and briefing senior management
         - Advised senior management on air pollution issues in communities using pertinent data and technical advice
     - role: Economic Research Analyst
       time: Sep. 2015 - Dec. 2015
