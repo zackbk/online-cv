@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        - Over 5 years of programming experience in R (shiny, data.table, tidyr, machine learning, visualizations)
+        - Over 5 years of programming experience in R (shiny, data.table, tidyr, ML, visualizations)
         - Proficient knowledge of project management (PMP) and continuous improvement principles (LSS Green Belt)
         - Experience leading an agile software team and adaptable to learning new software tools
 education:
@@ -64,7 +64,7 @@ experiences:
       time: Feb. 2019 - Present
       company: Environment and Climate Change Canada
       details: |
-        - Designed a predictive Energy Timeline App (ETA) that received a departmental recognition award
+        - Designed a predictive Energy Timeline App (ETA) that received a departmental award
         - Applied machine learning, advanced statistical methods, and engineering models to inform future energy policies 
         - Corrected \$1.75M of GHG accounting errors by reviewing +50 annual reports in 5 industrial sectors
         - Managed projects on impact assessment and contracts on benchmarking environmental performance
